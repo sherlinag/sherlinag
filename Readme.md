@@ -4,7 +4,7 @@ Software Developer
 <img align="right" width="370" height="290" src="https://i.postimg.cc/vZTbfsSc/coding.gif">
 
 📫 How to reach me :
-<br /> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />](https://x.com/life_racer_18/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/sherlin18ag/)
+<br /> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="40" width="12" />](https://x.com/life_racer_18/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="12" />](https://www.linkedin.com/in/sherlin18ag/)
 
 ### I code in
 
