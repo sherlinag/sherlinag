@@ -6,7 +6,7 @@
 📫 How to reach me :
 <br /><br/> [<img src="https://i.postimg.cc/4N8PBnTb/instagram.png" height="40" width="40" />](https://www.instagram.com/itz_ags.18/) <img width="12" />  [<img src="https://i.postimg.cc/25DBN2Hr/twitter-x.png" height="40" width="40" />](https://x.com/life_racer_18/) <img width="12" /> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40" />](https://www.linkedin.com/in/sherlin18ag/)
 
-### I code in
+### I Code in
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo"  />
