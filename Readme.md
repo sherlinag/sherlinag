@@ -1,5 +1,6 @@
-## Hi there 👋 It's me Sherlin A G
-
+<img src="https://i.postimg.cc/Tw3WFkRL/cover-thompson.png" alt="slogo"  />
+## Hey there👋! I'm Sherlin AG.
+<hr>
 ### Software Developer
 <img align="right" width="370" height="290" src="https://i.postimg.cc/vZTbfsSc/coding.gif">
 
