@@ -1,7 +1,8 @@
 ## Hey there👋! I'm Sherlin AG.
 
 ### Passionate Software Developer
-<img align="right" width="370" height="290" src="https://i.postimg.cc/vZTbfsSc/coding.gif">
+<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+<dotlottie-player src="https://lottie.host/0b3053c9-182b-4d3b-a46b-0d0e524ec8c4/nmTOkDvmKP.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
 
 📫 How to reach me :
 <br /><br/> [<img src="https://i.postimg.cc/4N8PBnTb/instagram.png" height="40" width="40" />](https://www.instagram.com/itz_ags.18/) <img width="12" /> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40" />](https://www.linkedin.com/in/sherlin18ag/)
