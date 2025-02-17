@@ -1,4 +1,4 @@
-## Hey there👋! I'm Sherlin AG.
+## Hey there👋! I'm Sherlin A G.
 
 ### Passionate Software Developer
 <img align="right" width="370" height="290" src="https://i.postimg.cc/vZTbfsSc/coding.gif">
