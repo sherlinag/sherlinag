@@ -4,7 +4,7 @@
 <img align="right" width="370" height="290" src="https://i.postimg.cc/vZTbfsSc/coding.gif">
 
 📫 How to reach me :
-<br /><br/> [<img src="https://i.postimg.cc/DZJG9hpz/whatsapp.png" height="40" width="40" />](https://api.whatsapp.com/send/?phone=917094593345&text=Hello%20Sherlin,%20I%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect!) <img width="12" /> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40" />](https://www.linkedin.com/in/sherlin18ag/)
+<br /><br/> [<img src="https://i.postimg.cc/DZJG9hpz/whatsapp.png" height="40" width="40" />](https://api.whatsapp.com/send/?phone=917094593345&text=Hello%20Sherlin,%20I%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect!) <img width="12" /> [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40" />](https://www.linkedin.com/in/sherlin-ag/)
 
 ### I Code in
 
