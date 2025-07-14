@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://i.postimg.cc/MHgdCtmC/power-bi.png" height="40" alt="powerbi logo"  />
 </div>
 
 ### IDE and Tools I Use
