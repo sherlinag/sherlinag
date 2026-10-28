@@ -1,14 +1,29 @@
+
 # Hey there! I'm Sherlin A G
 
 ### Software Developer | Web & Mobile Application Development
 
 <table>
   <tr>
-    <td width="65%" valign="middle">
-      Software Developer with 2 years of professional experience in web and mobile application development. I work with React, Next.js, React Native, and Node.js to build responsive applications, integrate REST APIs, and develop practical solutions. I'm also interested in AI-assisted development and continuously improving my technical skills.
+    <td width="60%" valign="middle">
+      <p>
+        Software Developer with 2+ years of experience building web and mobile applications using React, Next.js, React Native, and Node.js.
+      </p>
+      <p>
+        Passionate about building practical solutions, integrating REST APIs, and exploring AI-assisted development.
+      </p>
+      <p>
+        <a href="https://sherlin-ag.vercel.app/">
+          <img src="https://img.shields.io/badge/Portfolio-Explore-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+        </a>
+      </p>
     </td>
-    <td width="35%" align="center">
-      <img src="https://i.postimg.cc/vZTbfsSc/coding.gif" width="280" alt="Coding animation" />
+    <td width="40%" align="center" valign="middle">
+      <img
+        src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"
+        width="300"
+        alt="Developer working on code"
+      />
     </td>
   </tr>
 </table>
@@ -154,12 +169,8 @@
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
-        <strong>SnappyTimes Photography</strong>
-      </td>
-      <td valign="top">
-        Photography portfolio built with Next.js, featuring a contact form and email notifications.
-      </td>
+      <td valign="top"><strong>SnappyTimes Photography</strong></td>
+      <td valign="top">Photography portfolio built with Next.js, featuring a contact form and email notifications.</td>
       <td valign="top">
         <img src="https://cdn.simpleicons.org/nextdotjs/808080" width="25" height="25" alt="Next.js" />
         &nbsp;
@@ -174,12 +185,8 @@
       </td>
     </tr>
     <tr>
-      <td valign="top">
-        <strong>PaperBoat Photography</strong>
-      </td>
-      <td valign="top">
-        Responsive photography portfolio showcasing photography services and creative work.
-      </td>
+      <td valign="top"><strong>PaperBoat Photography</strong></td>
+      <td valign="top">Responsive photography portfolio showcasing photography services and creative work.</td>
       <td valign="top">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25" alt="HTML5" />
         &nbsp;
@@ -199,5 +206,5 @@
 ---
 
 <p align="center">
-  <em>Committed to continuous learning, building practical solutions, and growing as a software developer.</em>
+  <em>Learn continuously. Build thoughtfully. Grow every day.</em>
 </p>
